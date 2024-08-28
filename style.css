@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+*{
+    margin: 2px;
+    padding: px;
+}
+
+header{
+
+    background-color: rgb(209, 206, 201);
+    text-align: center;
+    padding-top: 20px;
+}
+
+header > p {
+
+    padding-bottom: 20px;
+    color: rgb(67, 100, 162); 
+
+}
